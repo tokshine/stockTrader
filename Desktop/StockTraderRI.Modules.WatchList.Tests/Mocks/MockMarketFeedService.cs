@@ -37,6 +37,7 @@ namespace StockTraderRI.Modules.WatchList.Tests.Mocks
         public long GetVolume(string tickerSymbol)
         {
             throw new NotImplementedException();
+            //fjdfjdf
         }
 
         public event EventHandler Updated = delegate { };
